@@ -6,9 +6,9 @@ body {
 
 .cabecalho {
     text-align: center;
-    background: url(fotologo.jpg) #0c7295 120px no-repeat;
-    margin-left: 50%;
-    width: 6em;
+    background: url(fotologo.jpg);
+    margin-left: 45%;
+    width: 15em;
 }
 
 .cortitulo1 {
